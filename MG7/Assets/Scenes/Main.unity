@@ -3170,6 +3170,7 @@ MonoBehaviour:
   - {fileID: 1500197659}
   - {fileID: 816085032}
   - {fileID: 406130384}
+  - {fileID: 704408756}
   _player: {fileID: 2617393310032840078}
   _interactDistance: 5
 --- !u!4 &3778659256116226280
